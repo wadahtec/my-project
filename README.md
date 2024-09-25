@@ -12,4 +12,4 @@
 |rm -r _ordnername_ |ordner löschen|
 |rm -rf _ordnername_ |ordner löschen| |alles löschen|
 |ls |ordnerinhalte anzeigen| ls -a zeigt versteckte dateien an
-
+|cp |ordner oder dateien kopieren|
