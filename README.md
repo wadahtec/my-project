@@ -9,5 +9,7 @@
 |mv _dateiname_ _ordnerziel_ |verschieben|
 |mv _altename_ _neuename_ |unbenennen|
 |rm _dateiname_ |datei löschen|
-|rm -r _ordnername_
+|rm -r _ordnername_ |ordner löschen|
+|rm -rf _ordnername_ |ordner löschen| |alles löschen|
+|ls |ordnerinhalte anzeigen| ls -a zeigt versteckte dateien an
 
